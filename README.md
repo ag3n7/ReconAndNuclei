@@ -48,39 +48,3 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 <h3> 📝 More Features and More Recon tools will be added in next update </h3>
   
 <hr> 
-
-## 💬 Community & Discussion
-
-Join Our Telegram server [here](https://t.me/+cpbGih_iO50wNDg1)
-  
-## :information_source: How to contribute:
- 
-If you want to contribute to this project then:
-- Submitting an [issue](https://github.com/gokulapap/Reconator/issues/new/choose) because you have found a bug or you have any suggestion or request.
-- Submitting a feature request in this Form [form](https://forms.gle/VaZ9e4QTBxhjk2At7)
- 
-## :information_source: Need help?
- 
-- Take a look at the [wiki](https://github.com/gokulapap/Reconator/wiki) section.  
-- Check [FAQ](https://github.com/gokulapap/Reconator/wiki/FAQ) for commonly asked questions.  
-- Ask for help in the [Telegram group](https://t.me/+cpbGih_iO50wNDg1)
-
-## 🤝 Helping hands 🤝
-
- - <a href="https://github.com/jopraveen">Jopraveen</a> (Video Editing & FrontEnd)
- - <a href="https://github.com/santhasarooban">Santroo</a> (FrontEnd design)
- - <a href="https://github.com/0xGodson">Godson</a> (Script Searching)
- - <a href="https://github.com/venom33cm">Yashwant</a> (FrontEnd design)
-
-## You can support this work buying me a coffee:
- 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png">](https://www.buymeacoffee.com/gokulap)
-  
-## ⚠️ Disclaimer
-Usage of this program for attacking targets without consent is illegal. It is the user's responsibility to obey all applicable laws. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Please use responsibly.
-
-The material contained in this repository is licensed under GNU GPLv3.
-
-## 🧾 License
-
-`Reconator` is made with ♥ by [@gokulap](https://twitter.com/CodingGokul) and it is released under the GPL 3.0 License 
