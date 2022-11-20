@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/c0ff33b34n/ReconAndNuclei">
-  <img src="./static/reconator.png" alt="reconator">
+  <img src="./static/courage.png" alt="reconator">
   </a>
   <br>
 </h1>
